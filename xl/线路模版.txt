@@ -5,11 +5,11 @@
             "name": "🌈请使用下面线路🌈"
         },   
        {
-           "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/lib/X.json ",
+           "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/lib/X.json ",
             "name": "🏝🌈专用影院"
         },
       {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/lib/tvbox.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/lib/tvbox.json",
             "name": "🏝🌈tvbox影院"
         },
        {
@@ -17,11 +17,11 @@
             "name": "🏝🌈天天影院"
         },   
        {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/juyou.json ",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/juyou.json ",
             "name": "🏝🌈酒友影院"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/18.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/18.json",
             "name": "🏝🌈聚合直播"
         },
         {
@@ -33,31 +33,31 @@
             "name": "🏝🌈娱乐影院02"
         },
        {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/vip.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/vip.json",
             "name": "🏝🌈娱乐影院03"
         },
        {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/1.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/1.json",
             "name": "🏝🌈娱乐影院04"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/2.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/2.json",
             "name": "🏝🌈娱乐影院05"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/3.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/3.json",
             "name": "🏝🌈娱乐影院06"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/4.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/4.json",
             "name": "🏝🌈娱乐影院07"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/6.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/6.json",
             "name": "🏝🌈娱乐影院08"
         },
         {
-            "url": "http://152.32.170.60/84816647/xxxf/raw/branch/master/Ai/7.json",
+            "url": "https://raw.githubusercontent.com/muozhong/84816647_xxxf/master/Ai/7.json",
             "name": "🏝🌈娱乐影院09"
         },
         {
